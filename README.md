@@ -2,7 +2,8 @@
 
 ## Setup environment
 ```
-python=3.12.0
+conda create --name main-ds python=3.12.0
+conda activate main-ds
 pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 ```
 
