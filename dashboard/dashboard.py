@@ -122,7 +122,7 @@ ax.set_title("Jumlah pelanggan yang menggunakan beberapa metode pembayaran", loc
 ax.set_ylabel(None)
 ax.set_xlabel(None)
 ax.tick_params(axis='x', labelsize=35)
-ax.tick_params(axis='y', labelsize=30)
+ax.tick_params(axis='y', labelsize=27)
 st.pyplot(fig)
 
 # persebaran pelanggan berdasarkan state
