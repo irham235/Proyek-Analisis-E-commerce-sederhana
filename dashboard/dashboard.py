@@ -118,7 +118,7 @@ sns.barplot(
     palette=colors_,
     ax=ax
 )
-ax.set_title("Jumlah pelanggan yang menggunakan beberapa metode pembayaran", loc="center", fontsize=35)
+ax.set_title("Jumlah pelanggan yang menggunakan beberapa metode pembayaran", loc="center", fontsize=30)
 ax.set_ylabel(None)
 ax.set_xlabel(None)
 ax.tick_params(axis='x', labelsize=35)
